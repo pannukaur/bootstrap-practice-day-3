@@ -1,4 +1,4 @@
-#special{
+/* special{
 
 }
 .special{
@@ -9,4 +9,9 @@
         background-color:pink;
     }
     
+} */
+@import url('https://fonts.googleapis.com/css?family=Cardo|Open+Sans+Condensed:300&display=swap');
+h1
+{
+    font-family: 'barriecito' ,cursive;
 }
